@@ -1,0 +1,13 @@
+#MALAYSIA TV
+
+#EXTINF:-1 tvg-id="tv2" tvg-name="tv2" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News",tv2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="tv1" tvg-name="tv1" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News",tv1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2496000_slENG.m3u8?id=1
+
+#EXTINF:-1 tvg-id="tv6" tvg-name="tv6" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News",tv6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="tv-okey" tvg-name="tv-okey" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News",tv-okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2496000_slENG.m3u8?id=1
