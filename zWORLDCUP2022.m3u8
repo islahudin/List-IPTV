@@ -1,0 +1,38 @@
+#WORLDCUP2022 TV
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV1_HD_M.png" group-title="TV DUNIA",VTV1 HD
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV2_HD_M.png" group-title="TV DUNIA",VTV2 HD
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV3_HD_M.png" group-title="TV DUNIA",VTV3 HD
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV4_HD_M.png" group-title="TV DUNIA",VTV4 HD
+https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV5_HD_M.png" group-title="TV DUNIA",VTV5 HD
+http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV6_HD_M.png" group-title="TV DUNIA",VTV6 HD
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV7_HD_M.png" group-title="TV DUNIA",VTV7 HD
+https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV8_HD_M.png" group-title="TV DUNIA",VTV8 HD
+https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",VTV9 HD
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="VTV6_HD" tvg-name="VTV6_HD" tvg-country="VN" tvg-language="Vietnam" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="Sport",VTV6_HD
+#http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="VTV5" tvg-name="VTV5" tvg-country="VN" tvg-language="Vietnam" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="Sport",VTV5_HD
+#http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="MAT4" tvg-name="MAT4" tvg-country="RU" tvg-language="Rusia" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="Sport",MAT4
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
