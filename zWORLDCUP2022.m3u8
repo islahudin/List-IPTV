@@ -27,6 +27,15 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",VTV9 HD
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",TcSport
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",cctv5cn
+https://lisa.xonthebeach.net/live/cctv5cn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",9goal TV
+https://lisa.xonthebeach.net/live/daserstede/index.m3u8
+
 
 #EXTINF:-1 tvg-id="VTV6_HD" tvg-name="VTV6_HD" tvg-country="VN" tvg-language="Vietnam" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="Sport",VTV6_HD
 #http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
