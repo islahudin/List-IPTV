@@ -10,14 +10,14 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",okey TV
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2496000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",9goal TV
-https://lisa.xonthebeach.net/live/daserstede/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",TcSport
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",cctv5cn
 https://lisa.xonthebeach.net/live/cctv5cn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",TcSport
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/logos/VTV9_HD_M.png" group-title="TV DUNIA",9goal TV
+https://lisa.xonthebeach.net/live/daserstede/index.m3u8
 
 #EXTINF:-1 tvg-id="tv2" tvg-name="tv2" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News",tv2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1
