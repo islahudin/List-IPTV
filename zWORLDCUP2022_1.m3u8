@@ -24,3 +24,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1
 
 #EXTINF:-1 tvg-id="tv1" tvg-name="tv1" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News",tv1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2496000_slENG.m3u8?id=1
+
+#######
+
+#EXTINF:-1 tvg-id="vtv2" tvg-name="vtv2" tvg-country="VT" tvg-language="vietnam" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News",vtv2
+https://github.com/wontfuck/payy/raw/main/vtv2.m3u8
+
+#EXTINF:-1 tvg-id="TcSport" tvg-name="TcSport" tvg-country="SP" tvg-language="Spain" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="News",TcSport
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?id=1
+
+#EXTINF:-1 tvg-id="vtvcantho" tvg-name="vtvcantho" tvg-country="VN" tvg-language="Vietnam" tvg-logo="https://i.postimg.cc/W1cNJKx1/image.png" group-title="Sport",vtvcantho
+https://github.com/wontfuck/payy/raw/main/vtvcantho.m3u8
