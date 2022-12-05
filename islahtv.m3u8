@@ -67,6 +67,58 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",vtvcantho
 https://github.com/wontfuck/payy/raw/main/vtvcantho.m3u8
 
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3Bbl66S",1.Jepang vs Kroasia (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3Bbl66S",2.Jepang vs Kroasia (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3Bbl66S",3.Jepang vs Kroasia (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://www.cloches1.shop/master2.m3u8
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3Bbl66S",4.Jepang vs Kroasia (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/krismrp123/beinmax/main/1-244.m3u8
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3Bbl66S",5.Jepang vs Kroasia (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
+
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3UvEBhs",6.Brazil vs Korsel (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3UvEBhs",7.Brazil vs Korsel (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3UvEBhs",8.Brazil vs Korsel (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3UvEBhs",9.Brazil vs Korsel (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://raw.githubusercontent.com/krismrp123/beinmax/main/1-244.m3u8
+
+
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3UvEBhs",_10.Brazil vs Korsel (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
+
 ############### TV OTHER #################
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/id.xml"
