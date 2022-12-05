@@ -1,31 +1,40 @@
 ############### TV MALAYSIA #################
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/TV1.jpg" group-title="TV Malaysi",TV 1
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/TV1.jpg" group-title="TV Malaysia",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/TV2.jpg" group-title="TV Malaysi",TV 2
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/TV2.jpg" group-title="TV Malaysia",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV%20Okey.jpg" group-title="TV Malaysi",Okey
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV%20Okey.jpg" group-title="TV Malaysia",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/Berita%20RTM.jpg" group-title="TV Malaysi",Berita RTM
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/Berita%20RTM.jpg" group-title="TV Malaysia",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Sukan%20RTM.jpg" group-title="TV Malaysi",Sukan RTM
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Sukan%20RTM.jpg" group-title="TV Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV6.jpg" group-title="TV Malaysi",TV 6
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV6.jpg" group-title="TV Malaysia",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Rakyat.jpg" group-title="TV Malaysi",Dewan Rakyat
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Rakyat.jpg" group-title="TV Malaysia",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Negara.jpg" group-title="TV Malaysi",Dewan Negara
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Dewan%20Negara.jpg" group-title="TV Malaysia",Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV Malaysi",Bernama
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV Malaysia",Bernama
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+
+#EXTINF:-1 group-title="TV Malaysia" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="TV Malaysia" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="TV Malaysia" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
 
 
