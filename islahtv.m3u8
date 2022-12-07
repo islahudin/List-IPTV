@@ -137,19 +137,19 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Refer
 ========TV INDONESIA=========
 
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",1.BRI LIVE 1
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",1.BRI LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.vbfast.xyz/1c9e0423ac5d5421ed7053231926e135/1670283547660/wkatjcf/index.m3u8|Referer=https://xl.plvb.xyz/
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://golive.yn.lt/live/liga1/01.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",3.BRI LIVE 3
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",3.BRI LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://etslive-2-vidio-com.akamaized.net/exp=1670243421~acl=/vp9/9310_stream.mpd!/vp9/9310/*!/vp9/*/9310_stream.mpd!/vp9/*/9310/*~hmac=63f9fcaa66639e8d0e0ec369978c4d9c1956197a02592d56b8a180210e718d9a/vp9/9310_stream.mpd
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",4.BRI LIVE 4
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",4.BRI LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/km_20221002_540p.mp4
 
@@ -157,34 +157,34 @@ https://raw.githubusercontent.com/tvbolaonline98/dontol/main/km_20221002_540p.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/km_20221002_540p.mp4
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",5.LIGA 2 L2
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",5.LIGA 2 L2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tv.zonanime.my.id/vidio/ochannel.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",5.LIGA 2 L3
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",5.LIGA 2 L3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tv.zonanime.my.id/vidio/ochannel.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",6.LIGA 2 L4
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://cdn.medcom.id/dynamic/content/2018/12/04/960843/eaojZK4D0v.jpg?w=1024",6.LIGA 2 L4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3LFUZZR",7.Futsal Indo 
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3LFUZZR",7.Futsal Indo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/index.m3u8|Referer=https://m.rctiplus.com/
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://bit.ly/3LFUZZR",8.Futsal Indo L1
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3LFUZZR",8.Futsal Indo L1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://www.sobo.byethost7.com/heroku-clearkey-hex-base64-json-main/web/results.php?keyid=531c6d50e3e9f9ba66446f624f492289&key=d769d9ae238bdd424f8bcdcdc9a3801f
 https://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3LFUZZR",9.Futsal Indo L2
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3LFUZZR",9.Futsal Indo L2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3SPLSYU",_10.Badminton C1
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3SPLSYU",_10.Badminton C1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/playlist.m3u8
 
@@ -194,7 +194,7 @@ https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/
 
 #https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3SPLSYU",_11.Badminton C2
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3SPLSYU",_11.Badminton C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/playlist.m3u8
 
@@ -202,7 +202,7 @@ https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/
 
 #https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3SPLSYU",_12.Badminton C3
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3SPLSYU",_12.Badminton C3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal3HB_sjb480.m3u8?auth_key=1698912455-0-0-6d7496ead005e013108087a798f9d4cc
 
@@ -212,35 +212,35 @@ https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal3HB_sjb48
 
 #https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3SPLSYU",_13.Badminton C4
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3SPLSYU",_13.Badminton C4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal4HB_sjb480.m3u8?auth_key=1698236030-0-0-73858445093b53f0f3e0ba6cde619c60
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3SPLSYU",_14.MNC Sport 1
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3SPLSYU",_14.MNC Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3SPLSYU",_14.MNC Sport 2
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3SPLSYU",_14.MNC Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3SPLSYU",_15.MNC Sport 3
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3SPLSYU",_15.MNC Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
 https://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3Ddpjby",_16.Volly Indo
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3Ddpjby",_16.Volly Indo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tvn.x10.mx/1/master-2.m3u8?dl=1
 
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://bit.ly/3Ddpjby",_17.Volly Indo
+#EXTINF:-1 group-title="TV Indonesia (Sport)" tvg-logo="https://bit.ly/3Ddpjby",_17.Volly Indo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tvn.x10.mx/1/master-2.m3u8?dl=1
 
