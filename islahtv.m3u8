@@ -47,13 +47,13 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",VTV5_HD
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://i.imgur.com/KfPiaKG.png" group-title="TV WORLD CUP",VTV5_HD
 http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",VTV6_HD
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://i.imgur.com/jLV7C18.png" group-title="TV WORLD CUP",VTV6_HD
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",okey TV
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV%20Okey.jpg" group-title="TV WORLD CUP",Okey TV
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2496000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",TcSport
@@ -65,19 +65,19 @@ https://lisa.xonthebeach.net/live/cctv5cn/index.m3u8
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",9goal TV
 https://lisa.xonthebeach.net/live/daserstede/index.m3u8
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",tv2
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/TV2.jpg" group-title="TV WORLD CUP",tv2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",tv1
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/TV1.jpg" group-title="TV WORLD CUP",tv1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2496000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",vtv2
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://i.imgur.com/Aepz56c.png" group-title="TV WORLD CUP",vtv2
 https://github.com/wontfuck/payy/raw/main/vtv2.m3u8
 
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",TcSport
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="TV WORLD CUP",vtvcantho
+#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="TV WORLD CUP",vtvcantho
 https://github.com/wontfuck/payy/raw/main/vtvcantho.m3u8
 
 
@@ -87,7 +87,7 @@ https://github.com/wontfuck/payy/raw/main/vtvcantho.m3u8
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 
-#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3Bbl66S",2.Jepang vs Kroasia (22:00 WIB)
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://i.imgur.com/Mqmbsj4.png",2.Jepang vs Kroasia (22:00 WIB)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
@@ -113,12 +113,12 @@ https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 
-#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3UvEBhs",7.Brazil vs Korsel (02:00 WIB)
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/TV2.jpg",7.Brazil vs Korsel (02:00 WIB)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
-#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="https://bit.ly/3UvEBhs",8.Brazil vs Korsel (02:00 WIB)
+#EXTINF:-1 group-title="TV WORLD CUP" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV%20Okey.jpg",8.Brazil vs Korsel (02:00 WIB)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
