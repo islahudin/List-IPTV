@@ -1,5 +1,59 @@
 ############### TV WORLD CUP #################
 
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3hgkAxG",1.Maroko vs Portugal (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-7174018575303559937/index.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3hgkAxG",2.Maroko vs Portugal (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://c84b857d5d697f19f60eeb9645fcf88f.s3.amazonaws.com/c10c2375e4da4c5cd054aaf144e7f351b70971bf083738cc2d5aafee50ce5828/c9d0501e1477d58c329dec2f1af2e17fa845bc7aa671f91f3646d2ab336a20c1eeb75a3d69afc9540f1ecb4ea342bbae96d511600b15a2cd7f9cad5b5685f424.m3u8|Referer=https://www7.cloches1.shop/
+
+
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3hgkAxG",3.Maroko vs Portugal (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
+#https://raw.githubusercontent.com/krismrp123/beinmax/main/1-360.m3u8
+
+
+
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3hgkAxG",4.Maroko vs Portugal (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d128b01rg4s4cy.cloudfront.net/out/v1/788fe05e72fb429d84bd7156a381dcc8/index.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3hgkAxG",5.Maroko vs Portugal (22:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://cdn.raino.xyz/hls/stream1.m3u8|referer=http://bdnewszh.com/
+
+
+
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3YfWRhN",6.Inggris vs Prancis (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ae10c2357e250e088bb8a5ab044dd50:e7f47e2b948e9222cf4d24b51881ec04
+https://channel-tdn-cdn.blim.com/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3YfWRhN",7.Inggris vs Prancis (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
+
+
+
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3YfWRhN",8.Inggris vs Prancis (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://lb.yacinetvkora.com/live/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS1jZW50cmFsLTEudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvU2JZalQzUk42LTF6RFdRVEl4QmJMMDFSUHFpTkZBb2wwdWJleWJfQ0NOZzJfOVI2Ql9FZDdnSWhoV1hNMTlTNUEyMG5uT09UTkVabFYxbXpGRTg3X0EvdHJhbnNjb2RlL2V1LWNlbnRyYWwtMS9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLWV1LWNlbnRyYWwtMS1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTgzTWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pjeU1Dd2lTMkp3Y3lJNk1qYzFNQ3dpVjJsa2RHZ2lPakV5T0RCOS5sZGt0TTRmQ0ZSZmtQNFpFQmZaUEt0bEFVTkFjVFBrb3o5OTRZSkF6V3BFL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU=
+#https://raw.githubusercontent.com/krismrp123/beinmax/main/1-360.m3u8
+
+
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3YfWRhN",9.Inggris vs Prancis (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://d128b01rg4s4cy.cloudfront.net/out/v1/788fe05e72fb429d84bd7156a381dcc8/index.m3u8
+      
+#EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3YfWRhN",_10.Inggris vs Prancis (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://cdn.raino.xyz/hls/stream1.m3u8|referer=http://bdnewszh.com/
+
 #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://bit.ly/3PeC3n1",1.Kroasia vs Brazil (22:00 WIB) (TUDN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
