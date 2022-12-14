@@ -1,5 +1,35 @@
 ############### TV WORLD CUP #################
 
+#EXTINF:-1 group-title="WORLD CUP2" tvg-logo="https://bit.ly/3iRi2qd",1.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ae10c2357e250e088bb8a5ab044dd50:e7f47e2b948e9222cf4d24b51881ec04
+https://channel-tdn-cdn.blim.com/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="WORLD CUP2" tvg-logo="https://bit.ly/3iRi2qd",2.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
+
+
+
+#EXTINF:-1 group-title="WORLD CUP2" tvg-logo="https://bit.ly/3iRi2qd",3.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://lb.yacinetvkora.com/live11/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTMudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvYzUtOTlqSjBNaVZWYUNXNWhxQ0FmRVZKOXRkb2NUNFBwNEtOYzNIbEk1SFFaZU9rcXhwT1pVYjlWci01cjZ1UC1QdHNoLUNKbXZ6cnhmT1BESW1QbEEvbm9uX3RyYW5zY29kZS9ldS13ZXN0LTMvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtcHJvZC1ldS13ZXN0LTMtcHJpdmF0ZS9zdF9tYXN0ZXJfZHluYW1pY19oaWdobGF0ZW5jeS5tM3U4P3R5cGU9bGl2ZQ%3D%3D
+
+
+
+#EXTINF:-1 group-title="WORLD CUP2" tvg-logo="https://bit.ly/3iRi2qd",4.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://bvsat02.cdn.rcs.net.ar/mnp/tyc/output.mpd
+
+
+#EXTINF:-1 group-title="WORLD CUP2" tvg-logo="https://bit.ly/3iRi2qd",5.ARGENTINA vs KROASIA (02:00 WIB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
+
 #EXTINF:-1 group-title="WORLD CUP1" tvg-logo="https://bit.ly/3hgkAxG",1.Maroko vs Portugal (22:00 WIB)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://pull-hls-w5-sg01.tiktokcdn.com/game/stream-7174018575303559937/index.m3u8
