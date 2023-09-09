@@ -46,7 +46,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://rtm.samsam123.name.my/Channel%20Logo/Berita%20RTM.jpg" group-title="TV Malaysia",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/Sukan%20RTM.jpg" group-title="TV Malaysia",Sukan RTM
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="TV Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=1
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="TV Malaysia",Astro Awani
